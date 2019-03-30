@@ -6,5 +6,6 @@ Doatkowa informacja dodana w drugiej lini
 <hr>
 Do lokalnego
 Więcej zmian ze strony strony
+Zmiana z GUI
 
 
