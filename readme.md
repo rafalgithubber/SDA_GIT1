@@ -7,5 +7,6 @@ Doatkowa informacja dodana w drugiej lini
 Do lokalnego
 Więcej zmian ze strony strony
 Zmiana z GUI
+Druga zmian z GUI
 
 
