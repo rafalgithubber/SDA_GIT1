@@ -5,4 +5,6 @@ Doatkowa informacja dodana w drugiej lini
 <i>zmieniono lokalnie</i>
 <hr>
 Do lokalnego
+Więcej zmian ze strony strony
+
 
